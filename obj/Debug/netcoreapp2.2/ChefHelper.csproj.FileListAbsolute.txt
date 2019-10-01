@@ -1,0 +1,11 @@
+/Users/dominikgadesmann/Desktop/C# Programming/assignments/#2/ChefHelper/bin/Debug/netcoreapp2.2/ChefHelper.deps.json
+/Users/dominikgadesmann/Desktop/C# Programming/assignments/#2/ChefHelper/bin/Debug/netcoreapp2.2/ChefHelper.runtimeconfig.json
+/Users/dominikgadesmann/Desktop/C# Programming/assignments/#2/ChefHelper/bin/Debug/netcoreapp2.2/ChefHelper.runtimeconfig.dev.json
+/Users/dominikgadesmann/Desktop/C# Programming/assignments/#2/ChefHelper/bin/Debug/netcoreapp2.2/ChefHelper.dll
+/Users/dominikgadesmann/Desktop/C# Programming/assignments/#2/ChefHelper/bin/Debug/netcoreapp2.2/ChefHelper.pdb
+/Users/dominikgadesmann/Desktop/C# Programming/assignments/#2/ChefHelper/obj/Debug/netcoreapp2.2/ChefHelper.csprojAssemblyReference.cache
+/Users/dominikgadesmann/Desktop/C# Programming/assignments/#2/ChefHelper/obj/Debug/netcoreapp2.2/ChefHelper.csproj.CoreCompileInputs.cache
+/Users/dominikgadesmann/Desktop/C# Programming/assignments/#2/ChefHelper/obj/Debug/netcoreapp2.2/ChefHelper.AssemblyInfoInputs.cache
+/Users/dominikgadesmann/Desktop/C# Programming/assignments/#2/ChefHelper/obj/Debug/netcoreapp2.2/ChefHelper.AssemblyInfo.cs
+/Users/dominikgadesmann/Desktop/C# Programming/assignments/#2/ChefHelper/obj/Debug/netcoreapp2.2/ChefHelper.dll
+/Users/dominikgadesmann/Desktop/C# Programming/assignments/#2/ChefHelper/obj/Debug/netcoreapp2.2/ChefHelper.pdb
